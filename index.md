@@ -1,4 +1,4 @@
-# Syn's File Server
+## Syn's File Server
 ### What exactly are you doing here?
 #### *Did you come from a website other than* synnnn.neocities.io *or any website* not listed below*?*
 > There are no allowed websites at this time.
